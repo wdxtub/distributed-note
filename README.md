@@ -1,4 +1,6 @@
 # 分布式系统学习
+
+已迁移到 https://gitee.com/wdxtub/distributed-note
  
 内容索引
 
